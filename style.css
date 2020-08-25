@@ -1,0 +1,18 @@
+p.text{
+	background-color: white;
+	border-width: 10px;
+	font-align: center;
+}
+body{
+	background-color: rgb(204, 204, 204);
+	text-color: black;
+}
+h1{
+	font-family: arial;
+	font-size: 22px;
+}
+h2{
+	background-color: white;
+	border-width: 10px;
+	font-align: center;
+}
