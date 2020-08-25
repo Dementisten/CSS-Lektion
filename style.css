@@ -1,7 +1,7 @@
 p.text{
 	background-color: white;
 	border-width: 10px;
-	font-align: center;
+	text-align: center;
 }
 body{
 	background-color: rgb(204, 204, 204);
@@ -14,5 +14,5 @@ h1{
 h2{
 	background-color: white;
 	border-width: 10px;
-	font-align: center;
+	text-align: center;
 }
