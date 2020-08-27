@@ -1,3 +1,11 @@
+.info{
+	border: 1px solid black;
+	border-color: black;
+	border-width: medium;
+	border-radius: 20px;
+	text-align: center;
+	color: black;
+}
 p.text{
 	background-color: white;
 	border-width: 10px;
@@ -5,7 +13,7 @@ p.text{
 }
 body{
 	background-color: rgb(204, 204, 204);
-	text-color: black;
+	color: black;
 }
 h1{
 	font-family: arial;
@@ -13,6 +21,14 @@ h1{
 }
 h2{
 	background-color: white;
-	border-width: 10px;
 	text-align: center;
+}
+.right{
+	background-color: white;
+	border-width: 10px;
+	text-align: right;
+}
+a{
+	
+	text-decoration: none;
 }
